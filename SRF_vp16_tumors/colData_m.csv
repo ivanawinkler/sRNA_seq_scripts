@@ -1,0 +1,13 @@
+,condition,type
+2_1c,control,Single-read
+2_2n,nodul,Single-read
+2_2t,tumor,Single-read
+25_4n,nodul,Single-read
+25_4t1,tumor,Single-read
+25_5c,control,Single-read
+26_3n,nodul,Single-read
+26_3t2,tumor,Single-read
+26_4c,control,Single-read
+4_1n,nodul,Single-read
+4_1t2,tumor,Single-read
+4_2c,control,Single-read
